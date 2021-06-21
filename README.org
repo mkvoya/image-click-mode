@@ -1,0 +1,13 @@
+* Image Click Mode
+
+This is a minor mode that adds the preview effect upon image click.
+
+Here is the demo:
+
+[[./demo.gif]]
+
+
+Note that the window that pops up during the demo is not related to Emacs/Image Click Mode;
+it is a warning from Kap.
+
+The demo is captured by [[https://github.com/wulkano/Kap][Kap]] and exported by [[https://github.com/sindresorhus/Gifski][Gifski]]. 🥳
